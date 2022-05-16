@@ -11,6 +11,7 @@ import java.io.IOException;
 import java.security.InvalidAlgorithmParameterException;
 import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
+import java.security.NoSuchProviderException;
 import java.security.spec.InvalidKeySpecException;
 import java.util.ArrayList;
 
@@ -266,19 +267,9 @@ public class VisualFrame extends JFrame implements ActionListener {
             String[] encryptSplit;
             try {
                 encryptSplit = workCipher.encrypt(typedMessage, typedKey).split("");
-            } catch (NoSuchPaddingException ex) {
-                throw new RuntimeException(ex);
-            } catch (NoSuchAlgorithmException ex) {
-                throw new RuntimeException(ex);
-            } catch (InvalidKeyException ex) {
-                throw new RuntimeException(ex);
-            } catch (IllegalBlockSizeException ex) {
-                throw new RuntimeException(ex);
-            } catch (BadPaddingException ex) {
-                throw new RuntimeException(ex);
-            } catch (InvalidAlgorithmParameterException ex) {
-                throw new RuntimeException(ex);
-            } catch (InvalidKeySpecException ex) {
+            } catch (NoSuchPaddingException | NoSuchAlgorithmException | InvalidKeyException |
+                     IllegalBlockSizeException | BadPaddingException | InvalidAlgorithmParameterException |
+                     InvalidKeySpecException | NoSuchProviderException ex) {
                 throw new RuntimeException(ex);
             }
             for (String x: encryptSplit)
@@ -324,21 +315,9 @@ public class VisualFrame extends JFrame implements ActionListener {
             String[] encryptSplit;
             try {
                 encryptSplit = workCipher.decrypt(typedMessage, typedKey).split("");
-            } catch (NoSuchPaddingException ex) {
-                throw new RuntimeException(ex);
-            } catch (NoSuchAlgorithmException ex) {
-                throw new RuntimeException(ex);
-            } catch (InvalidAlgorithmParameterException ex) {
-                throw new RuntimeException(ex);
-            } catch (InvalidKeyException ex) {
-                throw new RuntimeException(ex);
-            } catch (IllegalBlockSizeException ex) {
-                throw new RuntimeException(ex);
-            } catch (BadPaddingException ex) {
-                throw new RuntimeException(ex);
-            } catch (IOException ex) {
-                throw new RuntimeException(ex);
-            } catch (InvalidKeySpecException ex) {
+            } catch (NoSuchPaddingException | NoSuchAlgorithmException | InvalidAlgorithmParameterException |
+                     InvalidKeyException | IllegalBlockSizeException | BadPaddingException | IOException |
+                     InvalidKeySpecException ex) {
                 throw new RuntimeException(ex);
             }
             for (String x: encryptSplit)
@@ -373,11 +352,7 @@ public class VisualFrame extends JFrame implements ActionListener {
             {
                 try {
                     keyInputField.setText( ((TripleDesCipher) workCipher).generateKey() );
-                } catch (InvalidKeyException ex) {
-                    throw new RuntimeException(ex);
-                } catch (NoSuchAlgorithmException ex) {
-                    throw new RuntimeException(ex);
-                } catch (InvalidKeySpecException ex) {
+                } catch (InvalidKeyException | NoSuchAlgorithmException | InvalidKeySpecException ex) {
                     throw new RuntimeException(ex);
                 }
             }

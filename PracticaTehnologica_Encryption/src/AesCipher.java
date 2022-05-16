@@ -26,8 +26,7 @@ public class AesCipher extends CipherClass {
         KeyGenerator keyGenerator = KeyGenerator.getInstance("AES");
         keyGenerator.init(KEY_SIZE);
         SecretKey key = keyGenerator.generateKey();
-        String encodedKey = Base64.getEncoder().encodeToString(key.getEncoded());
-        return encodedKey;
+        return Base64.getEncoder().encodeToString(key.getEncoded());
     }
 
     public String encrypt(String message, String key) throws NoSuchPaddingException, NoSuchAlgorithmException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException {

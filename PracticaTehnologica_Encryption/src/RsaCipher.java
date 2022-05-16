@@ -1,6 +1,5 @@
 import javax.crypto.*;
 import java.io.IOException;
-import java.nio.ByteBuffer;
 import java.security.*;
 import java.security.spec.InvalidKeySpecException;
 import java.security.spec.PKCS8EncodedKeySpec;
@@ -20,8 +19,6 @@ public class RsaCipher extends CipherClass {
             "and verify signatures. A private key, known only to the intended user, is used to decrypt messages and create signatures. RSA is asymmetric because those who encrypt " +
             "messages or verify signatures cannot decrypt messages or create signatures. RSA algorithm involves three steps which include key generation, encryption, and decryption.";
 
-    private static String AES_KEY = "";
-    
     @Override
     public String getDescription() {
         return descriptionCipher;
