@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c65e0e77-81f8-40bc-9fc9-2d71f0d2921c" name="Changes" comment="" />
+    <list default="true" id="c65e0e77-81f8-40bc-9fc9-2d71f0d2921c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AdapterDesignPattern/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FactoryMethodPattern/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/ciphers/CipherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyDesignPattern/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../IDWeb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LL5_TrifanDenis_SmtpEmailClient.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/AesCipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/BackLogic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/CaesarSubstitution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/CardanGrille.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/CipherClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/DesCipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/PolybiusSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/Rc4Cipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/RsaCipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/TripleDesCipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/TrithemiusAveMaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/VigenereCipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/VisualFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/VisualFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/out/production/PracticaTehnologica_Encryption/VisualFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/AesCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/ciphers/AesCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/BackLogic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/CaesarSubstitution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/ciphers/CaesarSubstitution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/CardanGrille.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/ciphers/CardanGrille.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/CipherClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/DesCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/ciphers/DesCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/PolybiusSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/ciphers/PolybiusSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/Rc4Cipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/ciphers/Rc4Cipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/RsaCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/ciphers/RsaCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/TripleDesCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/ciphers/TripleDesCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/TrithemiusAveMaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/ciphers/TrithemiusAveMaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/VigenereCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/ciphers/VigenereCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaTehnologica_Encryption/src/VisualFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPPD_Game" beforeDir="false" afterPath="$PROJECT_DIR$/../SPPD_Game" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootBlog" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBootBlog" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,17 +56,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="273vtlVYtMF5wNSYg0bcleONKa1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "C:/Users/trifa/Git Repositories/DesignPatterns"
+    "last_opened_file_path": "C:/Users/trifa/Git Repositories/BridgePattern"
   }
 }]]></component>
   <component name="RunManager">
