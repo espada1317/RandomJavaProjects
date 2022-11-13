@@ -14,10 +14,6 @@ public class Main {
         KeyPairGenerator ecKeyGen = KeyPairGenerator.getInstance("EC", BouncyCastleProvider.PROVIDER_NAME);
         ecKeyGen.initialize(new ECGenParameterSpec("brainpoolP384r1"));
 
-        // doesn't work, which means we are dancing on the leading edge :)
-        // KeyPairGenerator ecKeyGen = KeyPairGenerator.getInstance("EC");
-        // ecKeyGen.initialize(new ECGenParameterSpec("secp384r1"));
-
         KeyPair ecKeyPair = ecKeyGen.generateKeyPair();
         System.out.println("What is slow?");
 
