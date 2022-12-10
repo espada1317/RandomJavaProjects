@@ -1,0 +1,75 @@
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\appsettings.Development.json
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\appsettings.json
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\NodeSync.exe
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\NodeSync.deps.json
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\NodeSync.runtimeconfig.json
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\NodeSync.runtimeconfig.dev.json
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\NodeSync.dll
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\NodeSync.pdb
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\MongoDB.Bson.dll
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\Common.dll
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\Common.pdb
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.csprojAssemblyReference.cache
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.AssemblyInfoInputs.cache
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.AssemblyInfo.cs
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.csproj.CoreCompileInputs.cache
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.MvcApplicationPartsAssemblyInfo.cache
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\staticwebassets\NodeSync.StaticWebAssets.Manifest.cache
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\staticwebassets\NodeSync.StaticWebAssets.xml
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\scopedcss\bundle\NodeSync.styles.css
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.RazorTargetAssemblyInfo.cache
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.csproj.CopyComplete
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.dll
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.pdb
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.genruntimeconfig.cache
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\NodeSync.StaticWebAssets.xml
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\NodeSync.exe
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\NodeSync.deps.json
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\NodeSync.runtimeconfig.json
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\NodeSync.runtimeconfig.dev.json
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\NodeSync.dll
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\NodeSync.pdb
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\Common.dll
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\bin\Release\netcoreapp3.1\Common.pdb
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.csproj.AssemblyReference.cache
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.AssemblyInfoInputs.cache
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.AssemblyInfo.cs
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.csproj.CoreCompileInputs.cache
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\staticwebassets\NodeSync.StaticWebAssets.Manifest.cache
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.RazorTargetAssemblyInfo.cache
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.csproj.CopyComplete
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.dll
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.pdb
+C:\Users\Bucos Ion\Downloads\SmartProxy\NodeSync\obj\Release\netcoreapp3.1\NodeSync.genruntimeconfig.cache
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\bin\Release\netcoreapp3.1\NodeSync.StaticWebAssets.xml
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\bin\Release\netcoreapp3.1\NodeSync.exe
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\bin\Release\netcoreapp3.1\NodeSync.deps.json
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\bin\Release\netcoreapp3.1\NodeSync.runtimeconfig.json
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\bin\Release\netcoreapp3.1\NodeSync.runtimeconfig.dev.json
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\bin\Release\netcoreapp3.1\NodeSync.dll
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\bin\Release\netcoreapp3.1\NodeSync.pdb
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\bin\Release\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\bin\Release\netcoreapp3.1\Common.dll
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\bin\Release\netcoreapp3.1\Common.pdb
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\obj\Release\netcoreapp3.1\NodeSync.csproj.AssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\obj\Release\netcoreapp3.1\NodeSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\obj\Release\netcoreapp3.1\NodeSync.AssemblyInfoInputs.cache
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\obj\Release\netcoreapp3.1\NodeSync.AssemblyInfo.cs
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\obj\Release\netcoreapp3.1\NodeSync.csproj.CoreCompileInputs.cache
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\obj\Release\netcoreapp3.1\NodeSync.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\obj\Release\netcoreapp3.1\staticwebassets\NodeSync.StaticWebAssets.Manifest.cache
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\obj\Release\netcoreapp3.1\NodeSync.RazorTargetAssemblyInfo.cache
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\obj\Release\netcoreapp3.1\NodeSync.csproj.CopyComplete
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\obj\Release\netcoreapp3.1\NodeSync.dll
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\obj\Release\netcoreapp3.1\NodeSync.pdb
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\NodeSync\obj\Release\netcoreapp3.1\NodeSync.genruntimeconfig.cache

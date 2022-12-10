@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ip9O7EPR33nD+ENNFw69Ix47bmqWdDE5FCTOjkgdwhhdw7nxHgE11pr0XqHwL5NY4bwlU4D+YR/IQWNAhpW7tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bucos Ion\\Downloads\\SmartProxy\\SmartProxy\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bucos Ion\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\Bucos Ion\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

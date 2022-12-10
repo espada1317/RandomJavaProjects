@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rWwBR/7du9SQw284IuKe5Rdo6f8YHZfm5uDaffLOH3FsmUlBuw6oh1LiKvmauXutjSKQBgj9RUJoObgN7HxO7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trifa\\OneDrive\\Desktop\\SmartProxy3\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trifa\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\trifa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

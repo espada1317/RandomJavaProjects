@@ -1,0 +1,8 @@
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\bin\Release\netcoreapp3.1\Common.deps.json
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\bin\Release\netcoreapp3.1\Common.dll
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\bin\Release\netcoreapp3.1\Common.pdb
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\obj\Release\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\obj\Release\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\obj\Release\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\obj\Release\netcoreapp3.1\Common.dll
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\obj\Release\netcoreapp3.1\Common.pdb

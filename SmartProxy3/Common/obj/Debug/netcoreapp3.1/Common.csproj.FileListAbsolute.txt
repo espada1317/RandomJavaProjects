@@ -1,0 +1,28 @@
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\bin\Debug\netcoreapp3.1\Common.dll
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\bin\Debug\netcoreapp3.1\Common.pdb
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\obj\Debug\netcoreapp3.1\Common.dll
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\obj\Debug\netcoreapp3.1\Common.pdb
+E:\Anul 4\Semestru 1\PAD\Lab 2 SmartProxy\SmartProxy\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\Bucos Ion\Downloads\SmartProxy\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Bucos Ion\Downloads\SmartProxy\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Bucos Ion\Downloads\SmartProxy\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Bucos Ion\Downloads\SmartProxy\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bucos Ion\Downloads\SmartProxy\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Bucos Ion\Downloads\SmartProxy\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Bucos Ion\Downloads\SmartProxy\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Bucos Ion\Downloads\SmartProxy\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Bucos Ion\Downloads\SmartProxy\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\trifa\OneDrive\Desktop\SmartProxy3\Common\obj\Debug\netcoreapp3.1\Common.pdb

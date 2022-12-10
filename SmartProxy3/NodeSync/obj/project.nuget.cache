@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0IBq11rxnC31CZtTdWqi8jU9XcROP7Qyrm9d9RUUpGuMJn5NVfCOnbOcq4W2y/1n9FMWPVLqmYAnuz8FqQM3WA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trifa\\OneDrive\\Desktop\\SmartProxy3\\NodeSync\\NodeSync.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trifa\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\trifa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\trifa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
