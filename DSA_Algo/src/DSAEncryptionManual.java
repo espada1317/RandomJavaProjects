@@ -41,11 +41,11 @@ public class DSAEncryptionManual {
         return new DSAEncryptionManual(q_value, p_value, g_value, x_value, y_value);
     }
 
-    public Signature signData(String message) {
+    public Signature signData(byte[] messageArray) {
         BigInteger k_value = generateK(this.Q);
-        BigInteger hash = hashMessage(message);
+        BigInteger hash = hashMessage(messageArray);
         BigInteger r_value = generateR(this.G, k_value, this.Q, this.P);
-        BigInteger s_value = generateS(k_value, this.Q, this.X, r_value, message);
+        BigInteger s_value = generateS(k_value, this.Q, this.X, r_value, messageArray);
 
         System.out.println("\nGenerating signature >");
         System.out.println("R : " + r_value);
@@ -55,18 +55,18 @@ public class DSAEncryptionManual {
         return new Signature(r_value, s_value);
     }
 
-    public Boolean verifySignature(String message, Signature signature) {
-        BigInteger r_value = signature.getR();
-        BigInteger s_value = signature.getS();
+    public VerifySignature verifySignature(byte[] messageArray, Signature signature) {
+        BigInteger r_value = signature.R;
+        BigInteger s_value = signature.S;
 
         if(r_value.compareTo(BigInteger.ZERO) <= 0 && r_value.compareTo(this.Q) >= 0) {
-            return false;
+            return null;
         }
         if(s_value.compareTo(BigInteger.ZERO) <= 0 && s_value.compareTo(this.Q) >= 0) {
-            return false;
+            return null;
         }
 
-        BigInteger hash = hashMessage(message);
+        BigInteger hash = hashMessage(messageArray);
         BigInteger w_value = s_value.modInverse(this.Q);
         BigInteger u1_value = hash.multiply(w_value).mod(this.Q);
         BigInteger u2_value = r_value.multiply(w_value).mod(this.Q);
@@ -82,7 +82,7 @@ public class DSAEncryptionManual {
         System.out.println("U2 : " + u2_value);
         System.out.println("V : " + v_value);
 
-        return v_value.equals(r_value);
+        return new VerifySignature(w_value, u1_value, u2_value, v_value);
     }
 
     public static BigInteger generateQ() {
@@ -91,14 +91,14 @@ public class DSAEncryptionManual {
 
     public static BigInteger generateP(BigInteger q) {
         BigInteger result;
-        BigInteger minPValue = minP_value;
+        BigInteger minPValue = maxP_value;
         while(true){
             BigInteger tempValue = q.multiply(minPValue).add(BigInteger.ONE);
             if( tempValue.mod(q).equals(BigInteger.ONE) && tempValue.isProbablePrime(confidence)){
                 result = tempValue;
                 break;
             }
-            minPValue = minPValue.add(BigInteger.TWO);
+            minPValue = minPValue.subtract(BigInteger.ONE);
         }
         return result;
     }
@@ -132,9 +132,9 @@ public class DSAEncryptionManual {
         return temp.mod(q);
     }
 
-    public static BigInteger generateS(BigInteger k, BigInteger q, BigInteger x, BigInteger r, String message) {
+    public static BigInteger generateS(BigInteger k, BigInteger q, BigInteger x, BigInteger r, byte[] messageArray) {
         BigInteger modInverseK = k.modInverse(q);
-        BigInteger temp = x.multiply(r).add(hashMessage(message));
+        BigInteger temp = x.multiply(r).add(hashMessage(messageArray));
         return modInverseK.multiply(temp).mod(q);
     }
 
@@ -150,10 +150,10 @@ public class DSAEncryptionManual {
         return res;
     }
 
-    public static BigInteger hashMessage(String input) {
+    public static BigInteger hashMessage(byte[] messageArray) {
         try {
-            MessageDigest md = MessageDigest.getInstance("SHA-1");
-            byte[] messageDigest = md.digest(input.getBytes());
+            MessageDigest md = MessageDigest.getInstance("MD5");
+            byte[] messageDigest = md.digest(messageArray);
 
             return new BigInteger(1, messageDigest);
         } catch (NoSuchAlgorithmException e) {

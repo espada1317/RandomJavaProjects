@@ -8,12 +8,4 @@ public class Signature {
         this.R = r;
         this.S = s;
     }
-
-    public BigInteger getR() {
-        return R;
-    }
-
-    public BigInteger getS() {
-        return S;
-    }
 }
